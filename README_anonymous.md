@@ -1,4 +1,4 @@
-# DNML-HGG
+# DNML
 
 ## 1. About
 This repository contains the implementation code of dimensionality and curvature selection.
